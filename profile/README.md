@@ -12,6 +12,14 @@ Our focus includes:
 
 We focus on building maintainable, scalable systems designed for practical business operations.
 
+## Connect
+
+For product information, company updates, and business inquiries:
+
 ## Website Update Coming Soon
 
 Updated product and company information will be available soon.
+
+- Website: 
+- LinkedIn: 
+
