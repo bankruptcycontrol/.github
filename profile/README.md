@@ -9,6 +9,5 @@ Our focus includes:
 - Reporting and analytics
 - Cloud-hosted infrastructure
 - Internal operational tooling
-- AI-assisted workflow improvements
 
 We focus on building maintainable, scalable systems designed for practical business operations.
