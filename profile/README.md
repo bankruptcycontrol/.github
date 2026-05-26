@@ -11,3 +11,7 @@ Our focus includes:
 - Internal operational tooling
 
 We focus on building maintainable, scalable systems designed for practical business operations.
+
+## Website Update Coming Soon
+
+Updated product and company information will be available soon.
