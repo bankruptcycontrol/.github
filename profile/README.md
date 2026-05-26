@@ -16,10 +16,10 @@ We focus on building maintainable, scalable systems designed for practical busin
 
 For product information, company updates, and business inquiries:
 
+- Website: 
+- LinkedIn: 
+
 ## Website Update Coming Soon
 
 Updated product and company information will be available soon.
-
-- Website: 
-- LinkedIn: 
 
