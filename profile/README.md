@@ -1,10 +1,10 @@
 # Bankruptcy Control
 
-Bankruptcy Control develops and modernizes operational software systems designed to support bankruptcy and legal workflow management.
+Bankruptcy Control provides operational case management systems designed to help creditors manage bankruptcy workflows, reporting, and internal case operations more efficiently.
 
 Our focus includes:
 
-- Operational case management systems
+- Creditor-side bankruptcy case management
 - Workflow modernization
 - Reporting and analytics
 - Cloud-hosted infrastructure
